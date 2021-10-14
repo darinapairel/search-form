@@ -1,0 +1,5 @@
+{
+    "eslint.format.enable": true,
+    "eslint.nodeEnv": "",
+    "eslint.nodePath": "node_modules/eslint-config-airbnb-bundle/node_modules/eslint"
+}
